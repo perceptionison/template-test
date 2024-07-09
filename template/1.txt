@@ -1,0 +1,7 @@
+Another way to arrange code so it's not overlapping the edge of the screen — 'ALT + Z'. [wrap word]
+Change Favicon-icon which is in the title.
+
+https://cdnjs.com/libraries/font-awesome
+https://fontawesome.com/icons?d=gallery&q=close&m=free
+https://css-tricks.com/favicons-next-to-external-links/
+https://www.google.com/s2/favicons?domain=css-tricks.com [instead of =css-trics.com , put another webpage.
